@@ -44,7 +44,7 @@
 			// 'From' mail header
 			$mailheader = "From: $email \r\n";
 			// Send email, if something goes wrong, kill programm and return error message
-			mail($recipient, $subject, $message, $mailheader) or die("Something went wrong, please try again or contact us via email instead: contact [at] phayse [dot] com.");
+			mail($recipient, $subject, $message, $mailheader) or die("Something went wrong, please try again.");
 			// If all's well, return success message
 			echo "Thank You! Your message has been sent.";
 			// ...and clear the message box
