@@ -4,7 +4,7 @@ PHP-Contact-Form
 A contact form made with PHP, HTML, CSS and a bit of Javascript.
 
 Instructions
----------
+------------
 
 Follow these instructions to get the form working:
 
@@ -15,6 +15,11 @@ Follow these instructions to get the form working:
 5. Upload all files to a server with the PHP mail() extension installed to use.
 
 Feel free to make a pull request if you want to make improvements.
+
+Demo
+----
+
+[Click here](http://mgakashim.com/contact-demo "Demo") to see a demo.
 
 License
 -------
