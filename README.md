@@ -4,13 +4,13 @@ PHP-Contact-Form
 A contact form made with PHP, HTML, CSS and a bit of Javascript.
 
 Bootstrap
-=========
+---------
 
 Twitter Bootstrap is used to build the contact form but could also be easily adapted to be used with any framework or even your own CSS.
 
 
 License
-=======
+-------
 
 This is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 
