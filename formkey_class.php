@@ -1,4 +1,7 @@
 <?php
+
+/* Source: http://net.tutsplus.com/tutorials/php/secure-your-forms-with-form-keys/ */
+
 //You can of course choose any name for your class or integrate it in something like a functions or base class
 class formKey
 {
