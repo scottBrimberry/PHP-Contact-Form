@@ -21,6 +21,11 @@ Demo
 
 [Click here](http://mgakashim.com/contact-demo "Demo") to see a demo.
 
+Bugs
+----
+
+Email me at me [at] mgakashim [dot] com  or tweet [@ad7863](http://www.twitter.com/ad7863 "AD7863 on Twitter") if you find anything wrong with it.
+
 License
 -------
 
