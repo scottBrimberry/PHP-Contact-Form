@@ -3,6 +3,8 @@ PHP Contact Form
 
 A contact form made with PHP, HTML, CSS and a bit of Javascript.
 
+The front-end is built using [Twitter Bootstrap](http://twitter.github.com/bootstrap "Twitter Bootstrap") and is therefore responsive. It can however be adapted to be used on any website.
+
 Instructions
 ------------
 
