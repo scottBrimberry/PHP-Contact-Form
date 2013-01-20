@@ -10,7 +10,7 @@ Instructions
 
 Follow these instructions to get the form working:
 
-1. Pull the repo to your computer.
+1. Fork and clone the repo!
 2. Go to http://www.google.com/recaptcha/whyrecaptcha and press 'Sign up Now', enter a domain name and press 'Create Key'.
 3. In the contact.php file, go to line 104 and add your public key in between the quotes.
 4. In the mail.php file, go to line 5 and add your private key in between the quotes.
