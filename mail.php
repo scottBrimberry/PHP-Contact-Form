@@ -45,7 +45,7 @@
 		// Enter your email address
 		$recipient = "your email address";
 		// Enter a subject, only you will see this so make it useful
-		$subject = "PHAYSE $name for $type";
+		$subject = "$name for $type";
 		// 'From' mail header
 		$mailheader = "From: $email \r\n";
 		// Send email, if something goes wrong, kill programm and return error message
