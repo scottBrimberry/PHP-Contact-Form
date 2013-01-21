@@ -28,7 +28,9 @@
 	  		}
 			
 			// validate email address
-	  		if (!(filter_var($email, FILTER_VALIDATE_EMAIL))) {
+	  		if (!(filter_var($email, FILTER_VALIDATE_EMAIL)) || // PHP's built in email validation (first layer)
+	  			!(preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-]) 
+	  				*@([a-zA-Z0-9_-])+([a-zA-Z0-9\._-]+)+$/", $email))) { // regex check, (second layer)
 	  			echo "<script>javascript:Recaptcha.reload();</script>"; //reload the captcha
 	  			exit("Please ensure you have entered a valid email address."); // exit program, return message
 	  		}
