@@ -37,7 +37,7 @@
 	    <!-- meta and some seo stuff -->
 		<meta charset="utf-8" />
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	    <meta name="description" content="<?php echo $DESC; ?>" />
+	    <meta name="description" content="PHP Contact Form Demonstration" />
 
 	    <!-- html5 shim for ie6-8 support of html5 elements -->
 	    <!--[if lt IE 9]>
@@ -117,13 +117,6 @@
 				</div>
 			</div>
 		</section>
-
-<footer id="main-footer">
-			<hr />
-			<div class="container">
-				<p>Copyright &copy; 2012 Phayse.com Web Design. All Rights Reserved.</p>
-			</div>
-		</footer>
 
 		<!-- javascript -->
 	    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
